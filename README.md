@@ -43,4 +43,4 @@ I’m especially interested in **backend engineering, system design, and data-dr
 
 ### 📫 Let’s Connect
 
-* **LinkedIn:** [https://www.linkedin.com/in/eliud-emmanuel-arceo-vazquez-bb0501310/](www.linkedin.com/in/emmarvaz)
+* **LinkedIn:** [www.linkedin.com/in/emmarvaz](www.linkedin.com/in/emmarvaz)
