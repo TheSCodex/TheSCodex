@@ -33,27 +33,8 @@ I’m especially interested in **backend engineering, system design, and data-dr
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=TheSCodex&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400" 
-  />
-  <img 
-    align="left" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSCodex&theme=tokyonight&layout=compact&langs_count=10&cache_seconds=86400" 
-  />
-</p>
-<br clear="all" />
-
----
-
 ### 🧠 Currently Learning
 
-* NestJS & scalable backend architecture
 * Data Structures & Algorithms (DSA)
 * Async processing & message-driven systems
 * Database performance & API security
